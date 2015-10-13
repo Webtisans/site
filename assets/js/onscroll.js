@@ -28,7 +28,7 @@ $(document).ready(function() {
 		triggerOnce: true
 	});
 
-	$('.navbar-nav li a').on('click', function(event){
+	$(".navbar-nav li a:not('.clickable')").on('click', function(event){
 		event.preventDefault();
 		var whereTo = $(this).attr('href');
 		$('html, body').animate({

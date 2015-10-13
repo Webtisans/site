@@ -47,7 +47,7 @@ iframe {
     color: #224870;
 }
 body {
-    font-family: 'Source Sans Pro', sans-serif;
+    font-family: 'Ubuntu', sans-serif;
     background-color: #283645;
     color: #73879C;
     font-size: 18px;
@@ -97,7 +97,7 @@ h3,
 h4,
 h5,
 h6 {
-    font-family: 'Lato', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     font-weight: 700;
 	letter-spacing: 0.025em;
     color: #224870;
@@ -572,7 +572,7 @@ figure.post-media + * {
 .member figcaption h2 span,
 .member figcaption h3 span {
 	display: block;
-	font-family: 'Source Sans Pro', sans-serif;
+	font-family: 'Ubuntu', sans-serif;
 	font-weight: 400;
 	letter-spacing: 0.015em;
 }
@@ -1610,7 +1610,7 @@ aside .thumb figure {
     background: #44cfcb;
     padding: 11px 20px 13px;
 	margin: 15px 0;
-	font-family: 'Source Sans Pro', sans-serif;
+	font-family: 'Ubuntu', sans-serif;
     font-weight: 700;
     font-size: 14px;
 	letter-spacing: 0.02em;
@@ -1842,7 +1842,7 @@ aside .thumb figure {
 .btn-share-xs p {
 	position: absolute;
 	height: 1.1em;
-	font-family: 'Lato', sans-serif;
+	font-family: 'Montserrat', sans-serif;
 	line-height: 100%;
 	color: #FFF;
 	margin: auto;
@@ -2050,7 +2050,7 @@ p .btn {
 	border-top-color: #44cfcb;
 }
 .tabs-side .tab a div {
-	font-family: 'Lato', sans-serif;
+	font-family: 'Montserrat', sans-serif;
 	font-size: 40px;
 	line-height: 100%;
 	font-weight: 200;
@@ -2109,7 +2109,7 @@ p .btn {
 	overflow: hidden;
 }
 .tabs-top .tab a div {
-	font-family: 'Lato', sans-serif;
+	font-family: 'Montserrat', sans-serif;
 	font-size: 40px;
 	line-height: 100%;
 	font-weight: 200;
@@ -2182,7 +2182,7 @@ p .btn {
 	overflow: hidden;
 }
 .tabs-circle-top .tab a div {
-	font-family: 'Lato', sans-serif;
+	font-family: 'Montserrat', sans-serif;
 	font-size: 40px;
 	line-height: 100%;
 	font-weight: 200;
@@ -2407,7 +2407,7 @@ blockquote:before {
 	border-color: inherit !important;
 }
 .panel-title {
-	font-family: 'Source Sans Pro', sans-serif;
+	font-family: 'Ubuntu', sans-serif;
     font-size: 15px;
 	line-height: 1.42857;
     font-weight: 700;
@@ -2712,7 +2712,7 @@ blockquote:before {
 	vertical-align: middle;
 	width: 100%;
 	height: auto;
-	font-family: 'Source Sans Pro', sans-serif;
+	font-family: 'Ubuntu', sans-serif;
 	font-size: 14px;
 	line-height: 22px;
 	/*color: #FFF;*/
@@ -3420,7 +3420,7 @@ blockquote:before {
 	margin-bottom: 15px;
 }
 .pricing .plan .price * {
-	font-family: 'Lato', sans-serif;
+	font-family: 'Montserrat', sans-serif;
 	line-height: 100%;
 }
 .pricing .plan .price .amount {
@@ -4048,7 +4048,7 @@ input:focus:-ms-input-placeholder {
 /*===================================================================================*/
 
 .author {
-	font-family: 'Lato', sans-serif;
+	font-family: 'Montserrat', sans-serif;
     font-size: 14px;
 	font-weight: 700;
     line-height: 160%;
@@ -4223,7 +4223,7 @@ input:focus:-ms-input-placeholder {
 	float: none;
 	display: inline-block;
     color: #fff;
-    font-family: 'Source Sans Pro', sans-serif;
+    font-family: 'Ubuntu', sans-serif;
     background: #44cfcb;
     padding: 11px 20px 13px;
 	margin-left: 0;
