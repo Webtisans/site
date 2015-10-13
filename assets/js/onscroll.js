@@ -27,4 +27,13 @@ $(document).ready(function() {
 		offset: '90%',
 		triggerOnce: true
 	});
+
+	$('.navbar-nav li a').on('click', function(event){
+		event.preventDefault();
+		var whereTo = $(this).attr('href');
+		$('html, body').animate({
+        scrollTop: $(whereTo).offset().top
+    }, 1000);
+	});
+
 });

@@ -26,12 +26,12 @@ a:focus,
 ul.arrowed li:before,
 ul.circled li:before,
 .yamm .yamm-content a:hover {
-	color: #1ABB9C;
+	color: #44cfcb;
 }
 
 .tint-bg .btn,
 .tint-color {
-	color: #1ABB9C !important;
+	color: #44cfcb !important;
 }
 
 .btn,
@@ -59,7 +59,7 @@ ul.circled li:before,
 .tint-bg.img-bg-soft:before,
 .tint-bg.img-bg-softer:before,
 .tooltip-inner {
-	background-color: #1ABB9C;
+	background-color: #44cfcb;
 }
 
 .btn:hover,
@@ -89,29 +89,29 @@ ul.circled li:before,
 .tabs-circle-top .tab a:hover,
 .tabs-side .tab a:hover,
 .tabs-top .tab a:hover {
-	border-color: #1ABB9C;
+	border-color: #44cfcb;
 }
 
 .tooltip.top .tooltip-arrow,
 .tooltip.top-left .tooltip-arrow,
 .tooltip.top-right .tooltip-arrow {
-	border-top-color: #1ABB9C;
+	border-top-color: #44cfcb;
 }
 .tooltip.right .tooltip-arrow {
-	border-right-color: #1ABB9C;
+	border-right-color: #44cfcb;
 }
 .tooltip.left .tooltip-arrow {
-	border-left-color: #1ABB9C;
+	border-left-color: #44cfcb;
 }
 .tooltip.bottom .tooltip-arrow,
 .tooltip.bottom-left .tooltip-arrow,
 .tooltip.bottom-right .tooltip-arrow {
-	border-bottom-color: #1ABB9C;
+	border-bottom-color: #44cfcb;
 }
 
 #owl-main .caption h1 span.tint-bg,
 #owl-main .caption p span.tint-bg  {
-	box-shadow: -.500em 0 0 #1ABB9C, .500em 0 0 #1ABB9C;
+	box-shadow: -.500em 0 0 #44cfcb, .500em 0 0 #44cfcb;
 }
 
 ::selection {
